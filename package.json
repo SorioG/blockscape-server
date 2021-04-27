@@ -1,0 +1,16 @@
+{
+  "name": "blockscape-server",
+  "version": "1.0.0",
+  "description": "Game Server for Blockscape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "requireindex": "^1.2.0",
+    "ws": "^7.4.5"
+  }
+}
