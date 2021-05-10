@@ -1,0 +1,9 @@
+{
+    "allowPVP": true,
+    "mutePlayerSounds": false,
+    "welcome-message": "Welcome to the server!",
+    "antispam": true,
+    "maxSpamTime": 800,
+    "bannedIp": [],
+    "useDefaultPlugins": true
+}
